@@ -1,6 +1,6 @@
 # Awesome Hardening
 
-A collection of scripts and configurations for hardening various systems and applications.
+A collection of scripts, configurations, and tools for hardening various systems and applications.
 
 ## Windows Hardening
 
