@@ -39,4 +39,6 @@ A collection of scripts, configurations, and tools for hardening various systems
 
 We welcome contributions to this repository! If you have a bugfix, improvement, or new feature, feel free to submit a pull request.
 
+## Learn more about [Hardening Automations and Scripts](https://simeononsecurity.ch/github/awesome-hardening)
+
 
