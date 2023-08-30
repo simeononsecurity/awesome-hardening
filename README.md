@@ -22,6 +22,7 @@ A collection of scripts, configurations, and tools for hardening various systems
 ## Linux Hardening
 - [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [Hardening](https://github.com/konstruktoid/hardening) - Bash Scripts and Ansible Playbooks. Works on Debian and RHEL Based Distros
+- [Dev-Sec.io](https://dev-sec.io/baselines) - Ansible, Puppet and Chef bechmarking and remediation, see roles for supported distro's 
 
 ## VMWare Hardening
 - [vmware-stig-powercli](https://github.com/simeononsecurity/vmware-stig-powercli) - PowerCLI Check and Remediation scripts for VMware
