@@ -22,12 +22,14 @@ A collection of scripts, configurations, and tools for hardening various systems
 ## Linux Hardening
 - [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [Hardening](https://github.com/konstruktoid/hardening) - Bash Scripts and Ansible Playbooks. Works on Debian and RHEL Based Distros
+- [Ansbile Collection Dev-Sec.io](https://github.com/dev-sec/ansible-collection-hardening) - Dev-Sec.Io Ansible Collection Hardening (includes SSH and OS hardening)
 
 ## VMWare Hardening
 - [vmware-stig-powercli](https://github.com/simeononsecurity/vmware-stig-powercli) - PowerCLI Check and Remediation scripts for VMware
 
 ## Web Server Hardening
 - [Apache Web Server Hardening](https://github.com/simeononsecurity/Apache-Web-Server-Hardening) - Scripts and documentation for hardening Apache Web Server.
+- [Dev-Sec.io Hardening Nginx using Ansible](https://github.com/dev-sec/ansible-collection-hardening/tree/master/roles/nginx_hardening) - This role provides secure nginx configuration
 
 ## Application Hardening
 - [.NET STIG Script](https://github.com/simeononsecurity/.NET-STIG-Script) - Script for STIG-compliant .NET applications.
