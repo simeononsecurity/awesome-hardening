@@ -17,7 +17,7 @@ A collection of scripts, configurations, and tools for hardening various systems
 - [Standalone Windows Server STIG Script](https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script) - Standalone script for STIG-compliant Windows Server.
 - [Standalone Windows STIG Script](https://github.com/simeononsecurity/Standalone-Windows-STIG-Script) - Standalone script for STIG-compliant Windows systems.
 - [STIG Compliant Domain Prep](https://github.com/simeononsecurity/STIG-Compliant-Domain-Prep)- Script to import STIG compliant GPOs into a domain controller for use in a windows domain environment.
-- [PowerSTIG](https://github.com/microsoft/PowerStig) - PowerShell Based STIG Automation Tool
+- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely, with Official Microsoft Methods
 
 ## Linux Hardening
 - [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
