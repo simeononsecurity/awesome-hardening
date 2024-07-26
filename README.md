@@ -1,5 +1,7 @@
 # Awesome Hardening
 
+ [![Sponsor](https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4)](https://github.com/sponsors/simeononsecurity) 
+
 A collection of scripts, configurations, and tools for hardening various systems and applications.
 
 ## Windows Hardening
